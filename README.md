@@ -1,8 +1,8 @@
 ### Hi there 👋🏻 
-I am currently working as a Software Development Engineer at [**SAP LABS**](https://www.sap.com/). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.I have also worked as a Technical Content Writer Intern at [**Geeks for Geeks**](https://www.geeksforgeeks.org/)  
+I am currently working as a Data Scientist at [**L&T Infotech**](https://www.sap.com/). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.I have also worked as a Technical Content Writer Intern at [**Geeks for Geeks**](https://www.geeksforgeeks.org/)  
 Gfg work link : https://practice.geeksforgeeks.org/answers/Aman+Chauhan+1
 
-In the past, I have worked with [**AMDOCS**](https://www.amdocs.com/).
+In the past, I have worked with [**SAP LABS**](https://www.sap.com/india/index.html?url_id=auto_hp_redirect_india) and [**AMDOCS**](https://www.amdocs.com/).
 
 ### Things I'm good at :fire:
 
