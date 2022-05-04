@@ -21,4 +21,5 @@ In the past, I have worked with [**SAP LABS**](https://www.sap.com/india/index.h
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchauhan71&label=Profile%20views&color=0e75b6&style=flat" alt="amanchauhan71" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanchauhan71&" alt="amanchauhan71" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amanchauhan71&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
