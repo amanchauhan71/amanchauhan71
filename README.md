@@ -18,3 +18,7 @@ In the past, I have worked with [**SAP LABS**](https://www.sap.com/india/index.h
 
 ### How to reach me 📱
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919997600372)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/aman-chauhan-42bb9273/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchauhan71&label=Profile%20views&color=0e75b6&style=flat" alt="amanchauhan71" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanchauhan71&" alt="amanchauhan71" /></p>
