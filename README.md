@@ -14,7 +14,7 @@ In the past, I have worked with [**SAP LABS**](https://www.sap.com/india/index.h
 
 **Libraries & Tools:** AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
 
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development and evaluation Metrics, Quantitative Methods, Google Analytics.
+**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development and Evaluation Metrics, Quantitative Methods, Google Analytics.
 
 ### How to reach me 📱
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919997600372)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/aman-chauhan-42bb9273/)
