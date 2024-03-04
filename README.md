@@ -1,6 +1,5 @@
 ### Hi there 👋🏻 
-I am currently working as a Data Scientist at [**S&P Global**](https://www.spglobal.com/en/). I have extensive experience working with different technologies including Web Development, Data Science, Machine Learning, and Deep Learning. I have also worked as a Technical Content Writer Intern at [**Geeks for Geeks**](https://www.geeksforgeeks.org/)  
-Gfg work link: https://practice.geeksforgeeks.org/answers/Aman+Chauhan+1
+I am currently working as a Data Scientist at [**S&P Global**](https://www.spglobal.com/en/). I have extensive experience working with different technologies including Web Development, Data Science, Machine Learning, and Deep Learning. 
 
 In the past, I have worked with [**SAP LABS**](https://www.sap.com/india/index.html?url_id=auto_hp_redirect_india) and [**AMDOCS**](https://www.amdocs.com/).
 
